@@ -1,4 +1,4 @@
-<h1 align="center">✨ Bhavani Neelapala ✨</h1>
+<h1 align="center">✨ Bhavani neelapala ✨</h1>
 <h3 align="center">Electronics & Communication Engineering | Aspiring Developer</h3>
 
 <p align="center">
