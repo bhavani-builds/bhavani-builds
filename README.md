@@ -10,7 +10,7 @@
 ---
 
 ## 🌼 About Me
-Hi! I'm *Bhavani Neelapala, an enthusiastic **ECE student* who loves learning how both *software and electronics* work together.  
+Hi! I'm Bhavani Neelapala, an enthusiastic ECE student who loves learning how both software and electronics work together.  
 I enjoy writing clean code, building small projects, and improving step-by-step every day.
 
 - 🌱 Currently learning *C, C++, Python, HTML, CSS*
@@ -30,7 +30,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-### 🌐 Web Development
+🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
