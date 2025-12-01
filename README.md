@@ -1,4 +1,4 @@
-<h1 align="center">✨ Bhavani neelapala ✨</h1>
+<h1 align="center">Bhavani Neelapala </h1>
 <h3 align="center">Electronics & Communication Engineering | Aspiring Developer</h3>
 
 <p align="center">
@@ -46,7 +46,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
 ---
 
 ## 📌 What I'm Working On
-- Improving my basics in *C & C++*
+- Improving my basics in C & C++
 - Practicing coding problems to build logic
 - Creating small websites using *HTML & CSS*
 - Exploring *Python* step-by-step
@@ -57,5 +57,5 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
 
 ## 🌟 Thank You for Visiting!
 💬 Feel free to explore my repositories and follow my journey.  
-📫 *Email:bhavanineelapaladev01@gmail.com
+📫 Email:bhavanineelapaladev01@gmail.com
 
