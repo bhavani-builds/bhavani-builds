@@ -21,7 +21,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
 
 ---
 
-## ⚙ Tech Stack
+⚙ Tech Stack
 
 ### 💻 Programming
 <p align="left">
