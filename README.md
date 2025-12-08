@@ -9,7 +9,7 @@
 
 ---
 
-## 🌼 About Me
+🌼 About Me
 Hi! I'm Bhavani Neelapala, an enthusiastic ECE student who loves learning how both software and electronics work together.  
 I enjoy writing clean code, building small projects, and improving step-by-step every day.
 
@@ -23,7 +23,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
 
 ⚙ Tech Stack
 
-### 💻 Programming
+💻 Programming
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -36,7 +36,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### 🛠 Tools
+🛠 Tools
 <p align="left">
   <img src="https://img.shields.io/badge/VS Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -45,7 +45,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
 
 ---
 
-## 📌 What I'm Working On
+📌 What I'm Working On
 - Improving my basics in C & C++
 - Practicing coding problems to build logic
 - Creating small websites using *HTML & CSS*
@@ -55,7 +55,7 @@ I enjoy writing clean code, building small projects, and improving step-by-step 
 
 
 
-## 🌟 Thank You for Visiting!
+🌟 Thank You for Visiting!
 💬 Feel free to explore my repositories and follow my journey.  
 📫 Email:bhavanineelapaladev01@gmail.com
 
