@@ -2,8 +2,6 @@
 
 # Hi, I'm Bhavani 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0C29,50:302B63,100:24243E&height=220&section=header&text=Neelapala%20Naga%20Durga%20Bhavani&fontSize=32&fontColor=ffffff&fontAlignY=36&desc=Software%20%26%20AI%20Engineer%20%7C%20VLSI%20%26%20Embedded%20Systems&descAlignY=56&desc=20&animation=twinkling" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+%7C+Data+Science+%7C+Machine+Learning;%F0%9F%A4%96+Deep+Learning+%7C+NLP+%7C+AI;%E2%98%81%EF%B8%8F+Cloud+%7C+Full+Stack+Development;%E2%9A%A1+VLSI+%7C+Verilog%2FVHDL+%7C+FPGA+%7C+Embedded+Systems;%F0%9F%9A%80+Final+Year+ECE+%E2%80%94+Open+to+Opportunities)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naga-durga-bhavani-neelapala-20767a413/)
