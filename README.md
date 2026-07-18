@@ -124,8 +124,8 @@ class BhavaniNeelapala:
 
 <div align="center">
 
-![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavani-builds&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-builds&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0)
+![Bhavani's GitHub stats](https://github-readme-stats-sigma-black.vercel.app/api?username=bhavani-builds&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED)
+![Top Langs](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=bhavani-builds&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bhavani-builds&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&sideLabels=E2E8F0&dates=94A3B8)
 
@@ -133,7 +133,7 @@ class BhavaniNeelapala:
 
 </div>
 
-> 💡 *If any badge above shows a broken image, it's usually a temporary outage on that service — refresh the page or wait a few minutes. The Streak Stats badge now points to the actively maintained `streak-stats.demolab.com` mirror (the old `herokuapp.com` version is permanently dead).*
+> 💡 *If any badge above shows a broken image, it's usually a temporary outage on that service — refresh the page or wait a few minutes. The Streak Stats badge now points to the actively maintained `streak-stats.demolab.com` mirror (the old `herokuapp.com` version is permanently dead), and the Stats/Top Langs badges now point to the `github-readme-stats-sigma-black.vercel.app` mirror, since the main `github-readme-stats.vercel.app` instance frequently gets rate-limited from public overuse.*
 
 ---
 
