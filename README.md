@@ -127,11 +127,13 @@ class BhavaniNeelapala:
 ![Bhavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavani-builds&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavani-builds&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavani-builds&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&sideLabels=E2E8F0&dates=94A3B8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bhavani-builds&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&sideLabels=E2E8F0&dates=94A3B8)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhavani-builds&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C084FC&area=true&area_color=7C3AED)
 
 </div>
+
+> 💡 *If any badge above shows a broken image, it's usually a temporary outage on that service — refresh the page or wait a few minutes. The Streak Stats badge now points to the actively maintained `streak-stats.demolab.com` mirror (the old `herokuapp.com` version is permanently dead).*
 
 ---
 
