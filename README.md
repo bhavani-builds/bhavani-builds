@@ -133,8 +133,6 @@ class BhavaniNeelapala:
 
 </div>
 
-> 💡 *If any badge above shows a broken image, it's usually a temporary outage on that service — refresh the page or wait a few minutes. The Streak Stats badge now points to the actively maintained `streak-stats.demolab.com` mirror (the old `herokuapp.com` version is permanently dead), and the Stats/Top Langs badges now point to the `github-readme-stats-sigma-black.vercel.app` mirror, since the main `github-readme-stats.vercel.app` instance frequently gets rate-limited from public overuse.*
-
 ---
 
 ## 📈 Expertise Map
