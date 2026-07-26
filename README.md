@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=180&section=header&text=Bhavani%20Neelapala&fontSize=42&fontColor=A78BFA&animation=twinkling&fontAlignY=35&desc=Software%2FAI%20%C3%97%20VLSI%2FEmbedded%20Engineer&descAlignY=55&descSize=16&descColor=C084FC" />
+
 # Hi, I'm Bhavani 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%90%8D+Python+%7C+Data+Science+%7C+Machine+Learning;%F0%9F%A4%96+Deep+Learning+%7C+NLP+%7C+AI;%E2%98%81%EF%B8%8F+Cloud+%7C+Full+Stack+Development;%E2%9A%A1+VLSI+%7C+Verilog%2FVHDL+%7C+FPGA+%7C+Embedded+Systems;%F0%9F%9A%80+Final+Year+ECE+%E2%80%94+Open+to+Opportunities)](https://git.io/typing-svg)
