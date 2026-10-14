@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=200&section=header&text=Bhavani%20Neelapala&fontSize=44&fontColor=A78BFA&animation=twinkling&fontAlignY=36&desc=Assistive%20Tech%20%C3%97%20AI%20%C3%97%20VLSI%20%26%20Embedded%20Systems&descAlignY=58&descSize=16&descColor=C084FC)
+<h1 align="center">Bhavani Neelapala</h1>
+<h3 align="center">Assistive Tech × AI × VLSI &amp; Embedded Systems</h3>
 
 <div align="center">
 
@@ -6,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neelapala-naga-durga-bhavani-885b393ba)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavanineelapaladev01@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white)](Bhavani_Resume.pdf)
 
 </div>
 
@@ -53,7 +54,6 @@ flowchart LR
 An assistive wearable that helps visually impaired users navigate their surroundings safely.
 
 **Focus:** assistive technology · embedded systems
-[View project →](LINK_TO_REPO)
 
 </td>
 <td width="50%" valign="top">
@@ -64,7 +64,6 @@ An assistive wearable that helps visually impaired users navigate their surround
 An AI-assisted system for hearing analysis, aimed at accessible screening and early detection of hearing loss.
 
 **Focus:** AI · healthcare accessibility
-[View project →](LINK_TO_REPO)
 
 </td>
 </tr>
@@ -77,7 +76,6 @@ An AI-assisted system for hearing analysis, aimed at accessible screening and ea
 A robot with obstacle avoidance and path planning for autonomous navigation.
 
 **Focus:** robotics · autonomy
-[View project →](LINK_TO_REPO)
 
 </td>
 <td width="50%" valign="top">
@@ -88,7 +86,6 @@ A robot with obstacle avoidance and path planning for autonomous navigation.
 Designed and simulated balun circuits for RF applications to improve signal performance.
 
 **Focus:** RF circuits · circuit simulation
-[View project →](LINK_TO_REPO)
 
 </td>
 </tr>
@@ -164,6 +161,5 @@ Open to conversations about **VLSI, embedded systems, assistive technology and A
 
 *"Technology works best when it works for everyone."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer)
 
 </div>
